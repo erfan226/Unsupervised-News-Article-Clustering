@@ -1,6 +1,6 @@
 # News Clustering
 
-A simple class project to cluster a sample data-set of 1000 tweets to one of the four classes which are: Sports, Economics, Politics and Culture using **K-Means** & **Mixture Models** in Python. The data-set is crawled from Tasnimnews.com and the crawler used for this task is written in Julia language.
+A simple class project to cluster a sample data-set of 1000 tweets to one of the four classes which are: Sports, Economics, Politics and Culture using **K-Means** & **Mixture Models** in Python. The data-set is crawled from [Tasnim News Agency](Tasnimnews.com) and the crawler used for this task is written in Julia language.
 
 
 #### Path to training files:
